@@ -17,23 +17,6 @@ I created this repository to consistently practice **Data Structures & Algorithm
 
 ---
 
-## 📊 Progress
-
-| Difficulty | Solved |
-|:----------:|:------:|
-| 🟢 Easy | 1 |
-| 🟡 Medium | 0 |
-| 🔴 Hard | 0 |
-| **Total** | **1** |
-
----
-
-## ✅ Problems Solved
-
-| # | Problem | Difficulty | Topic / Pattern | Solution |
-|---:|---------|:----------:|-----------------|----------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | Array, Hash Map | [Solution](./0001-two-sum/) |
-
 ---
 
 ## 🧠 Patterns I’m Learning
@@ -71,26 +54,6 @@ For each problem, I try to:
 6. Analyze **space complexity**
 7. Learn the pattern behind the solution
 
----
-
-## 📁 Repository Structure
-
-```text
-LeetCode/
-│
-├── README.md
-│
-├── 0001-two-sum/
-│   ├── solution.py
-│   └── README.md
-│
-└── ...
-```
-
-Each problem folder can contain:
-
-- `solution.py` — accepted solution
-- `README.md` — explanation, approach, and complexity
 
 ---
 
