@@ -1,4 +1,4 @@
-# 🚀 LeetCode Journey
+# LeetCode Journey
 
 Welcome to my **LeetCode problem-solving repository**.
 
@@ -6,7 +6,7 @@ I created this repository to consistently practice **Data Structures & Algorithm
 
 ---
 
-## 🎯 Goals
+##  Goals
 
 - Build strong problem-solving fundamentals
 - Learn important Data Structures & Algorithms
@@ -19,7 +19,7 @@ I created this repository to consistently practice **Data Structures & Algorithm
 
 ---
 
-## 🧠 Patterns I’m Learning
+## Patterns I’m Learning
 
 As I solve more problems, I’ll organize them by common patterns such as:
 
@@ -42,8 +42,8 @@ As I solve more problems, I’ll organize them by common patterns such as:
 
 ---
 
-## 💡 Problem-Solving Approach
-
+##  Problem-Solving Approach
+**I will be solving 3 problems everyday from 1st September 2026 without break**
 For each problem, I try to:
 
 1. Understand the problem clearly
@@ -57,7 +57,7 @@ For each problem, I try to:
 
 ---
 
-## 🔥 Current Focus
+## Current Focus
 
 Currently focusing on building strong fundamentals starting with **Easy problems**, then gradually moving toward **Medium** and **Hard** problems.
 
@@ -65,7 +65,7 @@ Currently focusing on building strong fundamentals starting with **Easy problems
 
 ---
 
-## 📌 Notes
+##  Notes
 
 This repository will be updated as I continue solving more LeetCode problems.
 
@@ -73,4 +73,4 @@ The goal is not just to collect accepted solutions, but to understand **why each
 
 ---
 
-⭐ If you find this repository useful, feel free to star it!
+ If you find this repository useful, feel free to star it!
