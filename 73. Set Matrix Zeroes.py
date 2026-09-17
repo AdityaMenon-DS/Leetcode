@@ -32,3 +32,4 @@ class Solution(object):
         if col0:
             for i in range(m):
                 matrix[i][0] = 0
+                matrix[i][0] = 0
